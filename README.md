@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Laraib</h1>
-<h3 align="center">A passionate frontend,Web and Game developer from India</h3>
+<h3 align="center">A passionate AI ,Flutter & MERN Dev</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2c/e2/e0/2ce2e0d8e2eeb0f8bfedf5503a346d4f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraib17&label=Profile%20views&color=0e75b6&style=flat" alt="laraib17" /> </p>
 
-- 🔭 I’m currently working on **flutter**
+- 🔭 I’m currently working on **Statistics**
 
-- 🌱 I’m currently learning **flutter,AI**
+- 🌱 I’m currently learning **AI-ML**
 
-- 👯 I’m looking to collaborate on **SDL**
+- 👯 I’m looking to collaborate on **MERN**
 
 - 👨‍💻 All of my projects are available at [in](in)
 
